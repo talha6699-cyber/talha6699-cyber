@@ -22,7 +22,7 @@ I am a passionate learner exploring the world of **Python Programming** and **Cy
 
 ## 📊 My GitHub Stats
 <p align="center">
-  ![Talha's GitHub stats](https://vercel.app)
+ ![Talha's GitHub  stats](https://vercel.app)
 </p>
 
 <p align="center">
