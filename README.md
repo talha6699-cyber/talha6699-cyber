@@ -13,7 +13,7 @@ I am a passionate learner exploring the world of **Python Programming** and **Cy
 ## 🛠️ Skills & Tools
 📬 **Languages & Frameworks:**  
 ![Python](https://shields.io)
-![Markdown](https://shields.io)
+
 
 🔒 **Cybersecurity & Tools:**  
 ![Linux](https://shields.io)
@@ -22,12 +22,14 @@ I am a passionate learner exploring the world of **Python Programming** and **Cy
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="Talha's GitHub stats" />
+  ![Talha's GitHub stats](https://vercel.app)
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Talha's Top Langs" />
+  ![Talha's Top Langs](https://vercel.app)
 </p>
+
+
 
 ---
 <p align="center">
