@@ -1,3 +1,4 @@
+
 # Hi there, I'm Talha! 👋
 
 I am a passionate learner exploring the world of **Python Programming** and **Cybersecurity**. I love building automation scripts, solving problems, and learning how systems work securely.
@@ -10,11 +11,27 @@ I am a passionate learner exploring the world of **Python Programming** and **Cy
 - 💬 Ask me about: **Python or why I love technology!**
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python (Learning)
-- **Areas of Interest:** Backend Development, Automation, Cyber Security
+📬 **Languages & Frameworks:**  
+![Python](https://shields.io)
+![Markdown](https://shields.io)
+
+🔒 **Cybersecurity & Tools:**  
+![Linux](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ## 📊 My GitHub Stats
-[![Talha's GitHub stats](https://vercel.app)](https://github.com)
+<p align="center">
+  <img src="https://vercel.app" alt="Talha's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Talha's Top Langs" />
+</p>
 
 ---
+<p align="center">
+  👁️ <b>Profile Views:</b> <img src="https://komarev.com" alt="talha6699-cyber" />
+</p>
+
 *“The beautiful thing about learning is that nobody can take it away from you.”*
